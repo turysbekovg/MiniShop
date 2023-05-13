@@ -6,3 +6,4 @@ The "MiniShop" project is made initially to practice with Spring. This project i
 3) get the information about your order
 
 I already put some available products as an example;
+Used PostgreSQL as database.
